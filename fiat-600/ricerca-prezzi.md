@@ -67,3 +67,46 @@
       La Fiat deve stare **sopra** (meno posti, più esclusiva).
 - [ ] Commissione GYG effettiva sul suo account.
 - [ ] Costo reale per uscita (autista, assicurazione, manutenzione).
+
+## Commissione GYG e netto al cliente (aggiunto 2026-10-15)
+
+Commissione ufficiale GYG: **20–30% in base al paese**; segnalati aumenti fino a 30–35% per alcuni
+operatori dal 2025. Per l'Italia assumere **30%** finché il cliente non conferma il suo contratto.
+La commissione si calcola sul **prezzo di vendita** (quello che vede il cliente).
+
+| Opzione | Prezzo GYG | Netto al 25% | Netto al 30% | Netto al 35% |
+|---|---|---|---|---|
+| Mattina + caffè (lancio) | €219 | €164 | €153 | €142 |
+| Mattina + caffè (regime) | €249 | €187 | €174 | €162 |
+| Golden hour + gelato (lancio) | €259 | €194 | €181 | €168 |
+| Golden hour + gelato (regime) | €299 | €224 | €209 | €194 |
+| Notte + gelato/drink (lancio) | €279 | €209 | €195 | €181 |
+| Notte + gelato/drink (regime) | €329 | €247 | €230 | €214 |
+
+Il netto **include ancora l'IVA** se il cliente è a regime ordinario (aliquota da verificare
+col commercialista: 22% servizi turistici, 10% trasporto passeggeri). Esempio €299 al 30%:
+€209 netto → ~€171 imponibile al 22%, ~€190 al 10%.
+
+## Come appare su GYG (scheda nei risultati di ricerca)
+
+GYG mostra **"A partire da" = l'opzione/data più economica** del prodotto.
+
+**Opzione 1: prezzo per gruppo** (come i Fiat 500 concorrenti a $287–392)
+- Prodotto Giorno: **"A partire da €219 a gruppo, max 2"** (mostra la mattina, non il golden hour)
+- Prodotto Notte: **"A partire da €279 a gruppo, max 2"**
+
+**Opzione 2: prezzo a persona con minimo 2 partecipanti** ← consigliata
+- Stesso incasso per coppia, ma la scheda mostra **la metà**:
+  - Giorno: **"A partire da €110 a persona"** (€219 / 2, arrotondato)
+  - Notte: **"A partire da €140 a persona"**
+- Nella lista accanto ai concorrenti a persona ($123, $174, $198) risulta **il più economico
+  tra i privati** — più clic. Il 3° passeggero paga il prezzo pieno a persona (+€110/140),
+  più del +€40 dell'opzione per gruppo.
+- Rischio: il cliente singolo che vede "€110" e scopre il minimo di 2 al checkout. Scriverlo
+  nel titolo opzione ("for 2 or more") e nelle info utili.
+
+| Prodotto | Lancio a persona (min 2) | Regime a persona (min 2) | Coppia paga | Netto al 30% |
+|---|---|---|---|---|
+| Giorno — mattina | €110 | €125 | €220 / €250 | €154 / €175 |
+| Giorno — golden hour | €130 | €150 | €260 / €300 | €182 / €210 |
+| Notte | €140 | €165 | €280 / €330 | €196 / €231 |
