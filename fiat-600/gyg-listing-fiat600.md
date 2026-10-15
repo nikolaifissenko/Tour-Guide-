@@ -292,3 +292,37 @@ Giardino degli Aranci escluso: chiude al tramonto.
   clonando T-1390511 e T-1052543.
 - 2026-10-15: bozza creata sul modello del prodotto golf cart (autista, no guida).
   Sosta gelato aggiunta su richiesta. Itinerario costruito sulle location dello shooting.
+
+---
+
+## Testo per il wizard AI di GYG ("Incolla una descrizione dettagliata", min 700 caratteri)
+
+### Prodotto A — Giorno
+```
+Private sightseeing tour of Rome with driver in a restored 1960s Fiat 600 convertible (sunshine yellow, original black Bari plates, folding soft top). This is a sightseeing ride with a driver, not a guided tour: the driver speaks English, handles traffic and parking, and stops at the best photo spots. The tour is private: only the customer's group is in the car, maximum 2 passengers plus the driver.
+
+Pickup and drop-off at any address in central Rome (Prati, Centro Storico, Trastevere, Monti, Esquilino, Termini, Aventino, Testaccio). If the street is pedestrian-only, the driver meets guests at the nearest accessible street, usually within a 2-minute walk.
+
+Route: photo stop at the Colle Oppio viewpoint on Via Nicola Salvi with the Colosseum behind the car; drive past the Arch of Constantine; photo stop at the Circus Maximus with the ruins of the Palatine Hill; drive up the Aventine Hill; short walk (about 200 m) to the Orange Garden (Giardino degli Aranci) for the panoramic view over Rome's domes and rooftops, and to Piazza dei Cavalieri di Malta to look through the Knights of Malta keyhole, which frames the dome of St. Peter's Basilica; stop at a local bar or artisan gelateria on the Aventine; drive past the Mouth of Truth (Bocca della Verità) before drop-off.
+
+Two options: Morning ride (1.5 hours, departures 9:00 and 10:30) with an Italian espresso or cappuccino at a local bar included. Golden hour ride (2 hours, starting about 1.5 hours before sunset) with one artisan gelato per person included.
+
+Included: private vintage Fiat 600 convertible with English-speaking driver, hotel pickup and drop-off in central Rome, one coffee or one gelato per person, photo stops. Not included: tour guide, extra food and drinks, tips. No entry tickets are needed: the Orange Garden and the keyhole are free.
+
+Price per person, minimum 2 participants per booking. Not suitable for wheelchair users or people with mobility impairments: seats are low and doors narrow. Small bags only. In case of rain the roof is closed or the tour can be rescheduled. The keyhole queue can be long; if the wait exceeds 15 minutes the driver may suggest skipping it. Ideal for couples, honeymooners, and travelers who want photos with a classic Italian car.
+```
+
+### Prodotto B — Notte
+```
+Private evening sightseeing tour of Rome with driver in a restored 1960s Fiat 600 convertible (sunshine yellow, original black Bari plates, folding soft top). This is a sightseeing ride with a driver, not a guided tour: the English-speaking driver handles traffic and parking and stops at the best night-time photo spots. The tour is private: only the customer's group is in the car, maximum 2 passengers plus the driver.
+
+Pickup and drop-off at any address in central Rome (Prati, Centro Storico, Trastevere, Monti, Esquilino, Termini, Aventino). If the street is pedestrian-only, the driver meets guests at the nearest accessible street, usually within a 2-minute walk.
+
+Route (2 hours): drive past Piazza Venezia and the illuminated Altar of the Fatherland (Vittoriano); photo stop with the car in front of the illuminated Colosseum; drive past the Arch of Constantine; drive along the Circus Maximus beneath the floodlit ruins of the Palatine Hill; climb the Aventine Hill to Piazza dei Cavalieri di Malta and look through the Knights of Malta keyhole, which frames the dome of St. Peter's Basilica; stop at a local gelateria or bar on the Aventine for one artisan gelato or one drink per person (soft drink for minors; alcohol only for guests 18+, consumed at the bar, not in the car); drive past the Mouth of Truth (Bocca della Verità) before drop-off. The Orange Garden is not included because it closes at sunset.
+
+Departures: 20:30 and 22:00 in summer, 18:30 and 20:00 in winter.
+
+Included: private vintage Fiat 600 convertible with English-speaking driver, hotel pickup and drop-off in central Rome, one gelato or one drink per person, photo stops. Not included: tour guide, extra food and drinks, tips. No entry tickets are needed.
+
+Price per person, minimum 2 participants per booking. Not suitable for wheelchair users or people with mobility impairments: seats are low and doors narrow. Small bags only. The car is open-top: evenings can be cool from October to April, so guests should bring a warm layer. In case of rain the roof is closed or the tour can be rescheduled. A romantic way to end a day in Rome, ideal for couples, honeymooners, and special occasions.
+```
