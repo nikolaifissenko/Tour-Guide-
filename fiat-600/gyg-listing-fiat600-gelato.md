@@ -19,6 +19,60 @@ Veicolo: Fiat 600 gialla cabrio, targa BA 351486 (foto in chat del 2026-10-15)
   (diversamente dal giro golf cart con Pantheon/Navona/Trevi). Da verificare su mappa ZTL
   e fascia oraria; Via dei Fori Imperiali è chiusa al traffico privato in certi giorni.
 
+## Struttura: clonare i prodotti già approvati (deciso 2026-10-15)
+
+Prodotti golf cart **approvati e prenotabili** sull'account del cliente:
+
+| Codice | Titolo | Recensioni |
+|---|---|---|
+| T-1397966 | Rome: Private Nighttime Golf Cart Sightseeing Tour | 5.0 |
+| T-1390511 | Rome: Private Golf Cart Sightseeing Tour + Gelato or Coffee | nessuna |
+| T-1052543 | Rome by Night: Private Sightseeing Tour with Gelato or Drink | 5.0 |
+
+**Piano: 2 prodotti Fiat, non 3** — ricalca la divisione giorno/notte che GYG ha già approvato:
+
+| Nuovo prodotto | Clonato da | Opzioni |
+|---|---|---|
+| **A. Giorno** — Rome: Private Vintage Fiat 600 Tour + Gelato or Coffee (54/60) | T-1390511 | Mattina (caffè) · Pomeriggio/golden hour (gelato) |
+| **B. Notte** — Rome by Night: Vintage Fiat 600 Tour with Gelato or Drink (57/60) | T-1052543 | Sera (gelato o drink) |
+
+Perché non 3 prodotti separati (mattina/pomeriggio/notte): mattina e pomeriggio sarebbero
+quasi identici → rischio rifiuto "troppo simile" (stesso motivo di 1507732), e le recensioni
+si disperdono. Mattina e pomeriggio = **opzioni** dello stesso prodotto.
+
+**Regola per il clone:** si copia la *struttura* (categoria, impostazioni prelievo, regole,
+policy), **non il testo**. Titolo, descrizione, highlights, foto e itinerario vanno
+riscritti per la Fiat + Aventino, altrimenti GYG lo vede come duplicato del golf cart.
+Da cambiare obbligatoriamente nel clone: veicolo ovunque ("golf cart" → "vintage Fiat 600
+convertible"), max partecipanti, accessibilità (la 600 NON è accessibile, il golf cart sì),
+foto, itinerario, info biglietto ("look for a yellow vintage Fiat 600").
+
+### Opzioni prodotto A (Giorno)
+| | Mattina | Pomeriggio |
+|---|---|---|
+| Titolo opzione | Morning Ride with Italian Coffee | Golden Hour Ride with Gelato |
+| Partenze | 09:00 · 10:30 | ~1,5 h prima del tramonto (stagionale) |
+| Sosta | caffè/cappuccino al bar | gelato artigianale |
+| Durata | 1,5 h | 1,5–2 h |
+
+Descrizione breve A (176/200):
+Start your day the Roman way in a 1960s Fiat 600 convertible. Pass the Colosseum, peek through the Aventine Keyhole, and stop for gelato or an Italian coffee on a private tour.
+
+### Prodotto B (Notte)
+Partenze: 20:30 · 22:00 (estate); 18:30 · 20:00 (inverno).
+Descrizione breve B (181/200):
+Ride through Rome by night in a 1960s Fiat 600 convertible, roof down. See the Colosseum lit up, peek through the Aventine Keyhole, and end with gelato or a drink on a private tour.
+
+Differenze di itinerario la sera:
+- **Giardino degli Aranci chiuso** dopo il tramonto → togliere la tappa 4 dall'itinerario notturno.
+- Buco della serratura: piazza accessibile, cupola di San Pietro illuminata — verificare dal vivo.
+- Aggiungere Colosseo illuminato e Altare della Patria/Piazza Venezia (passaggio).
+- "Drink" = verificare chi lo serve: alcol in auto è vietato, va consumato al bar.
+- Da ottobre ad aprile, auto scoperta di notte = freddo: indicarlo nelle info utili
+  ("The car is open-top; bring a warm layer in the evening") o capote alzata.
+
+---
+
 ## Da verificare / fornire dal cliente
 
 - [ ] **Posti passeggeri reali** (panchetta posteriore sì/no) → max partecipanti 1 o 3
@@ -140,5 +194,7 @@ il cliente cammina 5 minuti. Indicarlo se lo chiede GYG.
 
 ## Decisioni
 
+- 2026-10-15: scelta struttura a 2 prodotti (giorno con opzioni mattina/pomeriggio + notte),
+  clonando T-1390511 e T-1052543.
 - 2026-10-15: bozza creata sul modello del prodotto golf cart (autista, no guida).
   Sosta gelato aggiunta su richiesta. Itinerario costruito sulle location dello shooting.

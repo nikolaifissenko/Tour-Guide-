@@ -4,7 +4,8 @@ Ultimo aggiornamento: 2026-10-09
 Stato: **compilato su GYG dal 2026-10-09, in attesa di revisione**
 
 Sostituisce il prodotto rifiutato **1507732** ("Rome: Private Sightseeing Tour by Golf Cart",
-rif. T-1052543). Motivi del rifiuto: (1) troppo simile a esperienze esistenti; (2) fuori
+rif. T-1052543 — ⚠️ al 2026-10-15 T-1052543 risulta un altro prodotto **prenotabile**
+("Rome by Night: Private Sightseeing Tour with Gelato or Drink"): riferimento da ricontrollare). Motivi del rifiuto: (1) troppo simile a esperienze esistenti; (2) fuori
 ambito per luogo/tipo di attività.
 
 ## Strategia
