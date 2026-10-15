@@ -1,7 +1,7 @@
 # GYG — Fiat 600 cabrio vintage: 2 prodotti (Giorno + Notte)
 
 Ultimo aggiornamento: 2026-10-15
-Stato: **testi pronti, non ancora inviati a GYG**
+Stato: **Prodotto A (Giorno) in creazione su GYG. Prodotto B (Notte) in pausa** (deciso 2026-10-15)
 Veicolo: Fiat 600 gialla cabrio, targa BA 351486 (foto in chat del 2026-10-15)
 Prezzi: **a persona, minimo 2 partecipanti** (deciso 2026-10-15) — calcoli in `ricerca-prezzi.md`
 
@@ -176,7 +176,7 @@ Arancio e Buco della serratura sono a ~200 m a piedi: l'auto resta parcheggiata.
 
 ---
 
-# PRODOTTO B — NOTTE
+# PRODOTTO B — NOTTE (⏸ IN PAUSA — non creare per ora)
 
 ### Categoria
 **Tour**
@@ -285,6 +285,7 @@ Giardino degli Aranci escluso: chiude al tramonto.
 
 ## Decisioni
 
+- 2026-10-15: si crea solo il prodotto Giorno; Notte in pausa.
 - 2026-10-15: titoli con "Sightseeing Tour with Driver" (come i golf cart approvati;
   chiarisce che è con autista, non guidato).
 - 2026-10-15: prezzo **a persona, minimo 2** (scheda GYG mostra metà del prezzo coppia).
@@ -312,7 +313,7 @@ Included: private vintage Fiat 600 convertible with English-speaking driver, hot
 Price per person, minimum 2 participants per booking. Not suitable for wheelchair users or people with mobility impairments: seats are low and doors narrow. Small bags only. In case of rain the roof is closed or the tour can be rescheduled. The keyhole queue can be long; if the wait exceeds 15 minutes the driver may suggest skipping it. Ideal for couples, honeymooners, and travelers who want photos with a classic Italian car.
 ```
 
-### Prodotto B — Notte
+### Prodotto B — Notte (⏸ in pausa)
 ```
 Private evening sightseeing tour of Rome with driver in a restored 1960s Fiat 600 convertible (sunshine yellow, original black Bari plates, folding soft top). This is a sightseeing ride with a driver, not a guided tour: the English-speaking driver handles traffic and parking and stops at the best night-time photo spots. The tour is private: only the customer's group is in the car, maximum 2 passengers plus the driver.
 
