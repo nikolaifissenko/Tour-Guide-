@@ -54,14 +54,14 @@ accessibilità/sedie a rotelle (il golf cart è "Easy-Access", la 600 no). Foto:
 
 | Opzione | Lancio (fino a ~10 recensioni) | A regime | Coppia paga (lancio) | Netto al 30% (coppia, lancio) |
 |---|---|---|---|---|
-| A Giorno 3 h (mattina + caffè / pomeriggio + gelato) | **€150** | €175 | €300 | €210 |
+| A Giorno 3 h (mattina + caffè / pomeriggio + gelato) | **€195** | €225 | €390 | €273 |
 | B1 Notte + gelato o drink | **€140** | €165 | €280 | €196 |
 
 Impostazioni GYG per ogni opzione: tipo **Privato**, prezzo **per partecipante**, categoria
 **Adulto** (+ Bambino 4–12 allo stesso prezzo o −20%, a scelta del cliente),
 **partecipanti minimi per prenotazione: 2**, massimi: **2** (3 se c'è la panchetta posteriore).
 
-Scheda nei risultati: Giorno → "A partire da €150 a persona"; Notte → "A partire da €140 a persona".
+Scheda nei risultati: Giorno → "A partire da €195 a persona"; Notte → "A partire da €140 a persona".
 
 ---
 
@@ -157,8 +157,8 @@ Pickup is available from any address within central Rome (Prati, Centro Storico,
 | Durata | **3 h** | **3 h** |
 | Partenze | 09:00 tutto l'anno | mag–set 17:00 · ott–apr 14:00 |
 | Sosta | bar: espresso/cappuccino | gelateria artigianale |
-| Prezzo lancio | €150 a persona, min 2 | €150 a persona, min 2 |
-| Prezzo a regime | €175 a persona | €175 a persona |
+| Prezzo lancio | €195 a persona, min 2 | €195 a persona, min 2 |
+| Prezzo a regime | €225 a persona | €225 a persona |
 
 Stesso prezzo per le due opzioni: la scheda GYG mostra comunque il minimo, e il pomeriggio
 d'estate (fine al tramonto) è già il prodotto più forte senza bisogno di sovrapprezzo.
@@ -299,7 +299,7 @@ Giardino degli Aranci escluso: chiude al tramonto.
 ## Decisioni
 
 - 2026-10-15: prodotto Giorno portato a **3 ore** (aggiunti Vittoriano, Caracalla, Via Appia,
-  Piramide, Teatro di Marcello, Gianicolo); prezzo €150 a persona lancio, €175 a regime.
+  Piramide, Teatro di Marcello, Gianicolo); prezzo €195 a persona lancio, €225 a regime (riallineato al golf cart: €350 per 3 pax).
 - 2026-10-15: si crea solo il prodotto Giorno; Notte in pausa.
 - 2026-10-15: titoli con "Sightseeing Tour with Driver" (come i golf cart approvati;
   chiarisce che è con autista, non guidato).

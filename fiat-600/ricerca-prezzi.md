@@ -116,3 +116,21 @@ GYG mostra **"A partire da" = l'opzione/data più economica** del prodotto.
 Riferimenti 3 h privati: Fiat 500 3 h $392 a gruppo (fino a 3) · Fiat 500 3 h $198 a persona.
 Scelto: **€150 a persona (min 2) al lancio → €175 a regime**. Coppia €300 → netto ~€210 al 30%
 (€350 → ~€245 a regime). Scheda GYG: "A partire da €150 a persona" — sotto i 3 h privati concorrenti.
+
+## Revisione prezzo tour Giorno 3 h (2026-10-15) — confronto con il golf cart del cliente
+
+Golf cart 4 posti: **€350 per 3 persone** (~€117 a persona) → €245 netto al 30%.
+Con €150 a persona la Fiat incassava **€300 per uscita, meno del golf cart**: sbagliato per un
+prodotto più raro, con meno posti e costi di gestione più alti.
+
+Nuovo prezzo: **€195 a persona (min 2) al lancio → €225 a regime**.
+
+| | Golf cart (3 pax) | Fiat 600 lancio (2 pax) | Fiat 600 regime (2 pax) |
+|---|---|---|---|
+| Prezzo per uscita | €350 | €390 | €450 |
+| Netto al 30% | €245 | €273 | €315 |
+| A persona (scheda GYG) | ~€117 | €195 | €225 |
+
+Mercato 3 h privato: Fiat 500 $392/gruppo · ItalyXP Fiat 600 da €353 · Beyond Roma €450/auto ·
+Fiat 500 3 h $198 a persona → €195 a persona è in linea, €225 è fascia alta ma giustificata
+dalla cabrio 600 e dall'itinerario (Via Appia, Gianicolo).
