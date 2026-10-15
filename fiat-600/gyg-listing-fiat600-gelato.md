@@ -80,7 +80,7 @@ Differenze di itinerario la sera:
 - [ ] Inquadramento trasporto passeggeri a pagamento (NCC o altra struttura) — bloccante
 - [ ] Euro 0 benzina: accesso Fascia Verde / anello ferroviario, esenzioni veicolo storico (CRS/ASI)
 - [ ] Gelateria scelta (artigianale, parcheggio vicino, accordo per i coni prepagati)
-- [ ] Prezzo (stima non verificata: €150–220 per coppia / 1,5 h; €190–260 / 2 h)
+- [ ] Prezzo: vedi `ricerca-prezzi.md` (consigliato €249 mattina · €299 pomeriggio · €329 notte per auto, lancio −€30/50)
 - [ ] Copertura pioggia: il cliente esce con la capote alzata o cancella?
 - [ ] Numero di emergenza
 - [ ] **Foto reali con persone** (non AI) prima dell'invio — vedi `prompt-gemini-foto-persone.md`
