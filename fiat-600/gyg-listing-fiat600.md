@@ -71,14 +71,16 @@ Scheda nei risultati: Giorno → "A partire da €110 a persona"; Notte → "A p
 ### Categoria
 **Tour**
 
-### Titolo (54/60)
-Rome: Private Vintage Fiat 600 Tour + Gelato or Coffee
+### Titolo (59/60)
+Rome: Fiat 600 Sightseeing Tour with Driver + Gelato/Coffee
 
-### Descrizione breve (176/200)
-Ride through Rome in a 1960s Fiat 600 convertible, roof down. Pass the Colosseum, peek through the Aventine Keyhole, and stop for gelato or an Italian coffee on a private tour.
+Riserva (54): Rome: Fiat 600 Sightseeing Tour with Driver and Gelato
+
+### Descrizione breve (191/200)
+Cruise through Rome in a 1960s Fiat 600 convertible, roof down. Pass the Colosseum, peek through the Aventine Keyhole, and stop for gelato or coffee on a private sightseeing tour with driver.
 
 ### Descrizione completa (1135/3000)
-Travel back to the Rome of La Dolce Vita in a sunshine-yellow Fiat 600 convertible from the 1960s. With the roof folded down and just your group on board, this private ride takes you through some of the city's most photogenic corners at an easy, unhurried pace.
+Travel back to the Rome of La Dolce Vita in a sunshine-yellow Fiat 600 convertible from the 1960s. With the roof folded down and just your group on board, this private sightseeing tour with driver takes you through some of the city's most photogenic corners at an easy, unhurried pace.
 
 Your driver picks you up at your hotel or any address in central Rome. Start with a photo stop at the Colle Oppio viewpoint, where the Colosseum fills the frame behind the car. Continue past the Arch of Constantine and along the Circus Maximus, with the ruins of the Palatine Hill rising above you.
 
@@ -179,14 +181,16 @@ Arancio e Buco della serratura sono a ~200 m a piedi: l'auto resta parcheggiata.
 ### Categoria
 **Tour**
 
-### Titolo (57/60)
-Rome by Night: Vintage Fiat 600 Tour with Gelato or Drink
+### Titolo (60/60)
+Rome by Night: Vintage Fiat 600 Sightseeing Tour with Driver
 
-### Descrizione breve (181/200)
-Ride through Rome by night in a 1960s Fiat 600 convertible, roof down. See the Colosseum lit up, peek through the Aventine Keyhole, and end with gelato or a drink on a private tour.
+Riserva (52): Rome by Night: Fiat 600 Sightseeing Tour with Driver
+
+### Descrizione breve (196/200)
+Cruise Rome by night in a 1960s Fiat 600 convertible, roof down. See the Colosseum lit up, peek through the Aventine Keyhole, and enjoy gelato or a drink on a private sightseeing tour with driver.
 
 ### Descrizione completa (908/3000)
-See Rome after dark the way Romans did in the 1960s: roof down, in a sunshine-yellow Fiat 600 convertible. On this private evening ride, just your group and your driver cruise past the city's monuments as they light up.
+See Rome after dark the way Romans did in the 1960s: roof down, in a sunshine-yellow Fiat 600 convertible. On this private evening sightseeing tour with driver, you and your group cruise past the city's monuments as they light up.
 
 Your driver picks you up at your hotel or any address in central Rome. Pass Piazza Venezia and the illuminated Altar of the Fatherland, then stop for photos with the car in front of the Colosseum, glowing against the night sky. Drive along the Circus Maximus beneath the floodlit ruins of the Palatine Hill.
 
@@ -281,6 +285,8 @@ Giardino degli Aranci escluso: chiude al tramonto.
 
 ## Decisioni
 
+- 2026-10-15: titoli con "Sightseeing Tour with Driver" (come i golf cart approvati;
+  chiarisce che è con autista, non guidato).
 - 2026-10-15: prezzo **a persona, minimo 2** (scheda GYG mostra metà del prezzo coppia).
 - 2026-10-15: struttura a 2 prodotti (Giorno con opzioni mattina/golden hour + Notte),
   clonando T-1390511 e T-1052543.
