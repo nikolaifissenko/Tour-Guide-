@@ -54,15 +54,14 @@ accessibilità/sedie a rotelle (il golf cart è "Easy-Access", la 600 no). Foto:
 
 | Opzione | Lancio (fino a ~10 recensioni) | A regime | Coppia paga (lancio) | Netto al 30% (coppia, lancio) |
 |---|---|---|---|---|
-| A1 Mattina + caffè | **€110** | €125 | €220 | €154 |
-| A2 Golden hour + gelato | **€130** | €150 | €260 | €182 |
+| A Giorno 3 h (mattina + caffè / pomeriggio + gelato) | **€150** | €175 | €300 | €210 |
 | B1 Notte + gelato o drink | **€140** | €165 | €280 | €196 |
 
 Impostazioni GYG per ogni opzione: tipo **Privato**, prezzo **per partecipante**, categoria
 **Adulto** (+ Bambino 4–12 allo stesso prezzo o −20%, a scelta del cliente),
 **partecipanti minimi per prenotazione: 2**, massimi: **2** (3 se c'è la panchetta posteriore).
 
-Scheda nei risultati: Giorno → "A partire da €110 a persona"; Notte → "A partire da €140 a persona".
+Scheda nei risultati: Giorno → "A partire da €150 a persona"; Notte → "A partire da €140 a persona".
 
 ---
 
@@ -76,37 +75,37 @@ Rome: Fiat 600 Sightseeing Tour with Driver + Gelato/Coffee
 
 Riserva (54): Rome: Fiat 600 Sightseeing Tour with Driver and Gelato
 
-### Descrizione breve (191/200)
-Cruise through Rome in a 1960s Fiat 600 convertible, roof down. Pass the Colosseum, peek through the Aventine Keyhole, and stop for gelato or coffee on a private sightseeing tour with driver.
+### Descrizione breve (179/200)
+Cruise through Rome for 3 hours in a 1960s Fiat 600 convertible, roof down. See the Colosseum and the Appian Way, peek through the Aventine Keyhole, and stop for gelato or coffee.
 
-### Descrizione completa (1135/3000)
-Travel back to the Rome of La Dolce Vita in a sunshine-yellow Fiat 600 convertible from the 1960s. With the roof folded down and just your group on board, this private sightseeing tour with driver takes you through some of the city's most photogenic corners at an easy, unhurried pace.
+### Descrizione completa (1546/3000)
+Travel back to the Rome of La Dolce Vita in a sunshine-yellow Fiat 600 convertible from the 1960s. With the roof folded down and just your group on board, this 3-hour private sightseeing tour with driver takes you through ancient Rome, quiet hilltop gardens, and the city's best viewpoints at an easy, unhurried pace.
 
-Your driver picks you up at your hotel or any address in central Rome. Start with a photo stop at the Colle Oppio viewpoint, where the Colosseum fills the frame behind the car. Continue past the Arch of Constantine and along the Circus Maximus, with the ruins of the Palatine Hill rising above you.
+Your driver picks you up at your hotel or any address in central Rome. Pass Piazza Venezia and the Altar of the Fatherland, then stop for photos at the Colle Oppio viewpoint, where the Colosseum fills the frame behind the car. Continue past the Arch of Constantine and along the Circus Maximus, with the ruins of the Palatine Hill rising above you.
 
-Climb the quiet Aventine Hill, one of Rome's most elegant neighborhoods. Stroll into the Orange Garden for a panoramic view over the domes and rooftops, then look through the famous Knights of Malta keyhole that frames the dome of St. Peter's.
+Drive past the Baths of Caracalla to Porta San Sebastiano and the ancient Appian Way, the Roman road lined with umbrella pines, for a classic-car photo you won't find anywhere else. On the way back, pass the Pyramid of Cestius and climb the Aventine Hill. Stroll into the Orange Garden for a panoramic view over the domes and rooftops, then look through the famous Knights of Malta keyhole that frames the dome of St. Peter's.
 
-Then take a break the Italian way: an espresso or cappuccino at a local bar on the morning ride, or an artisan gelato on the golden hour ride, both included. Your driver then drops you off wherever you like in central Rome.
+Take a break the Italian way: an espresso or cappuccino on the morning tour, or an artisan gelato on the afternoon tour, both included. Then drive past the Mouth of Truth and the Theatre of Marcellus, and cross the Tiber to the Janiculum Hill for a last sweeping view over Rome before your driver drops you off wherever you like in central Rome.
 
 Ideal for couples, honeymooners, and anyone who wants unforgettable photos with a classic Italian car.
 
 ### In evidenza (max 80 ciascuno)
 - Ride roof-down through Rome in a restored 1960s Fiat 600 convertible (68)
-- Take photos with the car in front of the Colosseum (50)
+- Take photos with the car at the Colosseum and on the ancient Appian Way (71)
 - Peek through the Aventine Keyhole at the dome of St. Peter's (60)
-- Enjoy an Italian coffee or artisan gelato, included in the price (64)
-- Get picked up and dropped off anywhere in central Rome (54)
+- Enjoy the views over Rome from the Orange Garden and the Janiculum Hill (71)
+- Stop for an Italian coffee or artisan gelato, included in the price (67)
 
 ### Parole chiave
-Auto d'epoca, Tour privato, Coppie, Luna di miele, Fotografia, Colosseo, Aventino,
-Buco della serratura, Giardino degli Aranci, Circo Massimo, Gelato, Caffè, Dolce Vita,
-Cabriolet, Prelievo in hotel
+Auto d'epoca, Tour privato, Coppie, Luna di miele, Fotografia, Colosseo, Via Appia Antica,
+Aventino, Buco della serratura, Giardino degli Aranci, Gianicolo, Circo Massimo, Gelato,
+Dolce Vita, Prelievo in hotel
 
 ### Incluso
 - Private ride in a vintage Fiat 600 convertible with English-speaking driver
 - Pickup and drop-off at any address in central Rome
-- Italian coffee (morning option) or artisan gelato (golden hour option), one per person
-- Photo stops at the Colosseum, Circus Maximus, and Aventine Hill
+- Italian coffee (morning tour) or artisan gelato (afternoon tour), one per person
+- Photo stops at the Colosseum, Circus Maximus, Appian Way, Aventine Hill, and Janiculum Hill
 
 ### Escluso
 - Tour guide
@@ -133,7 +132,8 @@ The order of stops may change due to traffic, events, or road closures.
 Please provide your full pickup address and a WhatsApp number at booking.
 The car is a convertible. In case of rain, the roof will be closed or you can reschedule free of charge.
 The queue at the Aventine Keyhole can be long. If the wait is over 15 minutes, your driver may suggest skipping it.
-In July and August, the golden hour option is the most comfortable time to ride in an open-top car.
+From May to September the afternoon tour starts at 17:00 to avoid the midday heat in an open-top car.
+The Appian Way may be closed to traffic on Sundays and public holidays. On those days, the driver replaces it with a photo stop at the Pyramid of Cestius.
 
 ### Informazioni sul biglietto
 Your driver will pick you up at the address you provided at booking. Please be ready at the entrance 5 minutes before the start time.
@@ -152,26 +152,39 @@ Pickup is available from any address within central Rome (Prati, Centro Storico,
 
 | | A1 | A2 |
 |---|---|---|
-| Titolo opzione | Morning Ride with Italian Coffee (for 2 or more) | Golden Hour Ride with Gelato (for 2 or more) |
-| Codice | FIAT-AM | FIAT-GOLD |
-| Durata | 1,5 h | 2 h |
-| Partenze | 09:00 · 10:30 | ~1,5 h prima del tramonto: estate 18:00 · inverno 15:30 |
+| Titolo opzione | 3-Hour Morning Tour with Italian Coffee (for 2 or more) | 3-Hour Afternoon Tour with Gelato (for 2 or more) |
+| Codice | FIAT-AM-3H | FIAT-PM-3H |
+| Durata | **3 h** | **3 h** |
+| Partenze | 09:00 tutto l'anno | mag–set 17:00 · ott–apr 14:00 |
 | Sosta | bar: espresso/cappuccino | gelateria artigianale |
-| Prezzo lancio | €110 a persona, min 2 | €130 a persona, min 2 |
+| Prezzo lancio | €150 a persona, min 2 | €150 a persona, min 2 |
+| Prezzo a regime | €175 a persona | €175 a persona |
+
+Stesso prezzo per le due opzioni: la scheda GYG mostra comunque il minimo, e il pomeriggio
+d'estate (fine al tramonto) è già il prodotto più forte senza bisogno di sovrapprezzo.
 
 ### Itinerario (creatore GYG)
 Prelievo: Rome → primo elemento **Attività** → rientro Rome
 
 | # | Luogo | Tipo | Durata | Ingresso |
 |---|---|---|---|---|
-| 1 | Colosseum (Colle Oppio viewpoint) | Photo stop | 15 min | no |
-| 2 | Arch of Constantine | Pass by | 5 min | no |
-| 3 | Circus Maximus | Photo stop | 10 min | no |
-| 4 | Orange Garden (Giardino degli Aranci) | Visit | 15 min | gratis |
-| 5 | Knights of Malta Keyhole | Visit | 15 min | gratis |
-| 6 | Bar / artisan gelateria (Aventine) | Food stop | 15 min | incluso |
-| 7 | Mouth of Truth | Pass by | 5 min | no |
+| 1 | Altar of the Fatherland (Piazza Venezia) | Pass by | 5 min | no |
+| 2 | Colosseum (Colle Oppio viewpoint) | Photo stop | 15 min | no |
+| 3 | Arch of Constantine | Pass by | 5 min | no |
+| 4 | Circus Maximus | Photo stop | 10 min | no |
+| 5 | Baths of Caracalla | Pass by | 5 min | no |
+| 6 | Appian Way (Porta San Sebastiano) | Photo stop | 15 min | no |
+| 7 | Pyramid of Cestius | Pass by | 5 min | no |
+| 8 | Orange Garden (Giardino degli Aranci) | Visit | 15 min | gratis |
+| 9 | Knights of Malta Keyhole | Visit | 15 min | gratis |
+| 10 | Bar / artisan gelateria (Aventine) | Food stop | 20 min | incluso |
+| 11 | Mouth of Truth | Pass by | 5 min | no |
+| 12 | Theatre of Marcellus | Pass by | 5 min | no |
+| 13 | Janiculum Hill | Photo stop | 15 min | no |
 
+Tappe ~135 min + guida ~45 min = 3 h. Da provare su strada prima di pubblicare.
+Via Appia Antica: verificare chiusure domenicali/festive e lo stato del basolato per un'auto
+d'epoca (fermarsi al primo tratto asfaltato dopo Porta San Sebastiano).
 Arancio e Buco della serratura sono a ~200 m a piedi: l'auto resta parcheggiata.
 
 ---
@@ -285,6 +298,8 @@ Giardino degli Aranci escluso: chiude al tramonto.
 
 ## Decisioni
 
+- 2026-10-15: prodotto Giorno portato a **3 ore** (aggiunti Vittoriano, Caracalla, Via Appia,
+  Piramide, Teatro di Marcello, Gianicolo); prezzo €150 a persona lancio, €175 a regime.
 - 2026-10-15: si crea solo il prodotto Giorno; Notte in pausa.
 - 2026-10-15: titoli con "Sightseeing Tour with Driver" (come i golf cart approvati;
   chiarisce che è con autista, non guidato).
@@ -300,17 +315,17 @@ Giardino degli Aranci escluso: chiude al tramonto.
 
 ### Prodotto A — Giorno
 ```
-Private sightseeing tour of Rome with driver in a restored 1960s Fiat 600 convertible (sunshine yellow, original black Bari plates, folding soft top). This is a sightseeing ride with a driver, not a guided tour: the driver speaks English, handles traffic and parking, and stops at the best photo spots. The tour is private: only the customer's group is in the car, maximum 2 passengers plus the driver.
+Private 3-hour sightseeing tour of Rome with driver in a restored 1960s Fiat 600 convertible (sunshine yellow, original black Bari plates, folding soft top). This is a sightseeing ride with a driver, not a guided tour: the driver speaks English, handles traffic and parking, and stops at the best photo spots. The tour is private: only the customer's group is in the car, maximum 2 passengers plus the driver.
 
 Pickup and drop-off at any address in central Rome (Prati, Centro Storico, Trastevere, Monti, Esquilino, Termini, Aventino, Testaccio). If the street is pedestrian-only, the driver meets guests at the nearest accessible street, usually within a 2-minute walk.
 
-Route: photo stop at the Colle Oppio viewpoint on Via Nicola Salvi with the Colosseum behind the car; drive past the Arch of Constantine; photo stop at the Circus Maximus with the ruins of the Palatine Hill; drive up the Aventine Hill; short walk (about 200 m) to the Orange Garden (Giardino degli Aranci) for the panoramic view over Rome's domes and rooftops, and to Piazza dei Cavalieri di Malta to look through the Knights of Malta keyhole, which frames the dome of St. Peter's Basilica; stop at a local bar or artisan gelateria on the Aventine; drive past the Mouth of Truth (Bocca della Verità) before drop-off.
+Route (3 hours): drive past Piazza Venezia and the Altar of the Fatherland (Vittoriano); photo stop at the Colle Oppio viewpoint on Via Nicola Salvi with the Colosseum behind the car; drive past the Arch of Constantine; photo stop at the Circus Maximus with the ruins of the Palatine Hill; drive past the Baths of Caracalla; photo stop at Porta San Sebastiano and the first stretch of the ancient Appian Way (Via Appia Antica); drive past the Pyramid of Cestius; climb the Aventine Hill; short walk (about 200 m) to the Orange Garden (Giardino degli Aranci) for the panoramic view, and to Piazza dei Cavalieri di Malta to look through the Knights of Malta keyhole, which frames the dome of St. Peter's Basilica; break at a local bar or artisan gelateria on the Aventine; drive past the Mouth of Truth (Bocca della Verità) and the Theatre of Marcellus; cross the Tiber to the Janiculum Hill (Gianicolo) for a final panoramic photo stop over Rome; drop-off.
 
-Two options: Morning ride (1.5 hours, departures 9:00 and 10:30) with an Italian espresso or cappuccino at a local bar included. Golden hour ride (2 hours, starting about 1.5 hours before sunset) with one artisan gelato per person included.
+Two options, both 3 hours: Morning tour (departure 9:00) with an Italian espresso or cappuccino at a local bar included. Afternoon tour (departure 17:00 from May to September, 14:00 from October to April) with one artisan gelato per person included.
 
 Included: private vintage Fiat 600 convertible with English-speaking driver, hotel pickup and drop-off in central Rome, one coffee or one gelato per person, photo stops. Not included: tour guide, extra food and drinks, tips. No entry tickets are needed: the Orange Garden and the keyhole are free.
 
-Price per person, minimum 2 participants per booking. Not suitable for wheelchair users or people with mobility impairments: seats are low and doors narrow. Small bags only. In case of rain the roof is closed or the tour can be rescheduled. The keyhole queue can be long; if the wait exceeds 15 minutes the driver may suggest skipping it. Ideal for couples, honeymooners, and travelers who want photos with a classic Italian car.
+Price per person, minimum 2 participants per booking. Not suitable for wheelchair users or people with mobility impairments: seats are low and doors narrow. Small bags only. In case of rain the roof is closed or the tour can be rescheduled. The keyhole queue can be long; if the wait exceeds 15 minutes the driver may suggest skipping it. The Appian Way may be closed to traffic on Sundays and holidays; on those days it is replaced by a photo stop at the Pyramid of Cestius. Ideal for couples, honeymooners, and travelers who want photos with a classic Italian car.
 ```
 
 ### Prodotto B — Notte (⏸ in pausa)

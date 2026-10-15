@@ -110,3 +110,9 @@ GYG mostra **"A partire da" = l'opzione/data più economica** del prodotto.
 | Giorno — mattina | €110 | €125 | €220 / €250 | €154 / €175 |
 | Giorno — golden hour | €130 | €150 | €260 / €300 | €182 / €210 |
 | Notte | €140 | €165 | €280 / €330 | €196 / €231 |
+
+## Aggiornamento: tour Giorno da 3 ore (2026-10-15)
+
+Riferimenti 3 h privati: Fiat 500 3 h $392 a gruppo (fino a 3) · Fiat 500 3 h $198 a persona.
+Scelto: **€150 a persona (min 2) al lancio → €175 a regime**. Coppia €300 → netto ~€210 al 30%
+(€350 → ~€245 a regime). Scheda GYG: "A partire da €150 a persona" — sotto i 3 h privati concorrenti.
