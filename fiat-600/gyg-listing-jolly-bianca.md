@@ -42,7 +42,7 @@ Riserva (59): Rome: Fiat 600 Jolly Beach Car Sightseeing Tour with Driver
 
 ## Testo per il wizard AI ("descrizione dettagliata", min 700 caratteri)
 ```
-Private 3-hour sightseeing tour of Rome with driver in a restored 1960s Fiat 600 Jolly, the iconic Italian beach car: white body, no doors, red wicker-style seats, red tubular rails, and a pink-and-white striped fringed canopy. This is a sightseeing ride with a driver, not a guided tour: the driver speaks English, handles traffic and parking, and stops at the best photo spots. The tour is private: only the customer's group is in the car, maximum 3 passengers plus the driver. Price is per vehicle, for up to 3 people, ideal for couples, families, and small groups of friends.
+Private 3-hour sightseeing tour of Rome with driver in a restored 1960s Fiat 600 Jolly, the iconic Italian beach car: white body, no doors, red vinyl seats with white piping, red tubular rails, and a pink-and-white striped fringed canopy. This is a sightseeing ride with a driver, not a guided tour: the driver speaks English, handles traffic and parking, and stops at the best photo spots. The tour is private: only the customer's group is in the car, maximum 3 passengers plus the driver. Price is per vehicle, for up to 3 people, ideal for couples, families, and small groups of friends.
 
 Pickup and drop-off at any address in central Rome (Centro Storico, Prati, Trastevere, Monti, Esquilino, Termini, Parioli, Aventino). If the street is pedestrian-only, the driver meets guests at the nearest accessible street, usually within a 2-minute walk.
 
