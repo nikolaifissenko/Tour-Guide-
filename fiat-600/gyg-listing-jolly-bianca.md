@@ -78,3 +78,16 @@ banale + un formato di gruppo diverso. "Vintage car + highlights + gelato" non p
 - [ ] Bar dello Zodiaco aperto negli orari → altrimenti sosta maritozzo in Prati
 - [ ] Libretto/collaudo trasformazione Jolly, RC, inquadramento trasporto passeggeri
 - [ ] Policy pioggia: riprogrammare o rimborso (niente capote)
+
+## Descrizione del prelievo (inviata)
+```
+Wait at the main entrance of your hotel or at the address you provided at booking, 5 minutes before the start time.
+
+Your driver will arrive in a white vintage Fiat 600 Jolly beach car with a pink-and-white striped canopy and red seats, and will send you a WhatsApp message when nearby. Please keep your phone on and make sure you can receive WhatsApp messages on the day of the tour.
+
+Many streets in central Rome are pedestrian-only or closed to traffic (ZTL). If your address cannot be reached by car, your driver will send you the exact meeting point at the nearest accessible street the day before, usually within a 2-minute walk.
+
+Pickup is available from any address in central Rome: Centro Storico, Prati, Trastevere, Monti, Esquilino, Termini area, Parioli, and Aventino.
+
+The car has no doors and no trunk: please bring only a small bag. The canopy gives shade, but the car is open on all sides, so wear sunglasses and a hat in summer, or a warm layer in the cooler months. If you are traveling with a child who needs a car seat, please let us know at booking.
+```

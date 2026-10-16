@@ -59,3 +59,16 @@ Price per person, minimum 2 participants per booking. Not suitable for wheelchai
 - [ ] Bar storico di quartiere per la mattina (es. a Garbatella o Testaccio)
 - [ ] Autista: davvero romano, parla inglese — è la promessa del titolo
 - [ ] Foto reali: Coppedè e murales di Ostiense con la gialla = foto che nessun altro ha
+
+## Descrizione del prelievo
+```
+Wait at the main entrance of your hotel or at the address you provided at booking, 5 minutes before the start time.
+
+Your Roman driver will arrive in a sunshine-yellow vintage Fiat 600 convertible with black Bari license plates, and will send you a WhatsApp message when nearby. Please keep your phone on and make sure you can receive WhatsApp messages on the day of the tour.
+
+Many streets in central Rome are pedestrian-only or closed to traffic (ZTL). If your address cannot be reached by car, your driver will send you the exact meeting point at the nearest accessible street the day before, usually within a 2-minute walk.
+
+Pickup is available from any address in central Rome: Centro Storico, Prati, Trastevere, Monti, Esquilino, Termini area, and Aventino.
+
+The car has very limited space: please bring only a small bag. The tour includes two short walks (about 15 minutes each) in Coppedè and Garbatella, so wear comfortable shoes. The car is a convertible: bring sunglasses and a hat in summer, or a warm layer in the cooler months and for the evening ride.
+```

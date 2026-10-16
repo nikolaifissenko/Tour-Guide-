@@ -42,3 +42,16 @@ The golf cart is open-sided with a roof; rain covers available. Short walks of 2
 - [ ] Chiosco grattachecca (es. sul Lungotevere / Isola Tiberina) aperto negli orari
 - [ ] Porta Maggiore raggiungibile in golf cart (traffico intenso)
 - [ ] Accessibilità: il golf cart è accessibile → si può includere il pubblico "Easy-Access"
+
+## Descrizione del prelievo
+```
+Wait at the main entrance of your hotel or at the address you provided at booking, 5 minutes before the start time.
+
+Your driver will arrive in an electric golf cart and will send you a WhatsApp message with a photo of the cart when nearby, so you can recognize it easily (the color of the cart may vary). Please keep your phone on and make sure you can receive WhatsApp messages on the day of the tour.
+
+Many streets in central Rome are pedestrian-only or closed to traffic (ZTL). If your address cannot be reached by vehicle, your driver will send you the exact meeting point at the nearest accessible street the day before, usually within a 2-minute walk.
+
+Pickup is available from any address in central Rome: Centro Storico, Prati, Trastevere, Monti, Esquilino, Termini area, and Aventino.
+
+The golf cart is open-sided with a roof, and rain covers are available. Please bring only small bags. Wear comfortable shoes for the short walks to the fountains in pedestrian squares, and bring a reusable water bottle to refill at the nasoni along the way.
+```
