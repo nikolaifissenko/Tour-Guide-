@@ -1,7 +1,8 @@
 # GYG — Fiat 600 cabrio vintage: 2 prodotti (Giorno + Notte)
 
 Ultimo aggiornamento: 2026-10-15
-Stato: **Prodotto A (Giorno) in creazione su GYG. Prodotto B (Notte) in pausa** (deciso 2026-10-15)
+Stato: **Prodotto A (Giorno) RIFIUTATO da GYG il 2026-10-16** — "non offre una scelta nuova e distinta"
+(Sez. 3.1 Termini fornitori). Nuovo piano: Fiat come **opzione** dentro prodotti già approvati (vedi in fondo).
 Veicolo: Fiat 600 gialla cabrio, targa BA 351486 (foto in chat del 2026-10-15)
 Prezzi: **a persona, minimo 2 partecipanti** (deciso 2026-10-15) — calcoli in `ricerca-prezzi.md`
 
@@ -342,3 +343,28 @@ Included: private vintage Fiat 600 convertible with English-speaking driver, hot
 
 Price per person, minimum 2 participants per booking. Not suitable for wheelchair users or people with mobility impairments: seats are low and doors narrow. Small bags only. The car is open-top: evenings can be cool from October to April, so guests should bring a warm layer. In case of rain the roof is closed or the tour can be rescheduled. A romantic way to end a day in Rome, ideal for couples, honeymooners, and special occasions.
 ```
+
+---
+
+## Rifiuto 2026-10-16 e nuovo piano
+
+Motivo: "alto grado di somiglianza con esperienze esistenti". Il mercato "vintage Fiat a Roma"
+è saturo: esistono già tour Fiat per Via Appia + catacombe + acquedotti e per Castelli
+Romani/Frascati con vino (Winedering, VisitRome). Cambiare itinerario non basta: per GYG
+la 600 non è diversa dalla 500.
+
+La guida GYG "Submitting Unique Activities" dice esplicitamente: se hai già un prodotto e
+offri una variante, **aggiungi un'opzione invece di un prodotto nuovo**.
+
+Piano:
+1. **Niente ricorso** con lo stesso prodotto: nessun argomento nuovo.
+2. **Notte** → aggiungere "Vintage Fiat 600 Convertible" come opzione a **T-1052543**
+   ("Rome by Night: Private Sightseeing Tour with Gelato or Drink"): titolo senza veicolo,
+   già approvato, 5.0. Riusa i testi del Prodotto B qui sopra.
+3. **Giorno** → aggiungere le Fiat come opzioni a **T-1390511** (nessuna recensione, rischio
+   basso), rinominandolo senza veicolo: "Rome: Private Sightseeing Tour + Gelato or Coffee"
+   (49). La descrizione deve citare entrambi i veicoli ("by golf cart or vintage Fiat").
+4. **Jolly bianca**: NON inviarla come prodotto nuovo (stesso rifiuto). Diventa una terza
+   opzione veicolo (fino a 3 persone, prezzo per veicolo).
+5. Prima di toccare i titoli: leggere la descrizione attuale di T-1390511 e T-1052543 e
+   riscriverla neutra rispetto al veicolo.

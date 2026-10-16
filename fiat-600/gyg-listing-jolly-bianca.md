@@ -1,7 +1,8 @@
 # GYG — Fiat 600 Jolly bianca/rosa (SA 330653): tour 3 ore
 
 Ultimo aggiornamento: 2026-10-15
-Stato: **testo per wizard pronto, non ancora inviato**
+Stato: **NON inviare come prodotto nuovo** (2026-10-16): la gialla è stata rifiutata per somiglianza.
+Diventa un'opzione veicolo nei prodotti approvati — vedi `gyg-listing-fiat600.md`, sezione finale.
 
 ## Strategia: NON deve sembrare un doppione della gialla
 
