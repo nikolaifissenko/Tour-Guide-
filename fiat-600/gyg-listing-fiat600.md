@@ -364,7 +364,7 @@ Piano:
 3. **Giorno** → aggiungere le Fiat come opzioni a **T-1390511** (nessuna recensione, rischio
    basso), rinominandolo senza veicolo: "Rome: Private Sightseeing Tour + Gelato or Coffee"
    (49). La descrizione deve citare entrambi i veicoli ("by golf cart or vintage Fiat").
-4. **Jolly bianca**: NON inviarla come prodotto nuovo (stesso rifiuto). Diventa una terza
-   opzione veicolo (fino a 3 persone, prezzo per veicolo).
+4. **Jolly bianca**: inviata comunque come prodotto nuovo e **APPROVATA** il 2026-10-16
+   (vedi `gyg-listing-jolly-bianca.md`). La gialla resta da piazzare come opzione (punti 2–3).
 5. Prima di toccare i titoli: leggere la descrizione attuale di T-1390511 e T-1052543 e
    riscriverla neutra rispetto al veicolo.

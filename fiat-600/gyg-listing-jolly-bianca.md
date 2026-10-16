@@ -1,8 +1,7 @@
 # GYG — Fiat 600 Jolly bianca/rosa (SA 330653): tour 3 ore
 
 Ultimo aggiornamento: 2026-10-15
-Stato: **NON inviare come prodotto nuovo** (2026-10-16): la gialla è stata rifiutata per somiglianza.
-Diventa un'opzione veicolo nei prodotti approvati — vedi `gyg-listing-fiat600.md`, sezione finale.
+Stato: **APPROVATO da GYG il 2026-10-16** ✅ (la gialla, inviata il giorno prima, è stata rifiutata)
 
 ## Strategia: NON deve sembrare un doppione della gialla
 
@@ -55,3 +54,27 @@ Included: private vintage Fiat 600 Jolly with English-speaking driver, hotel pic
 
 Not suitable for wheelchair users or people with mobility impairments. Small bags only: the car has no trunk space. The car has a sun canopy but no roof or doors: in case of rain the tour is rescheduled or fully refunded. Children must be accompanied by an adult; child seats on request. The order of stops may change due to traffic, events, or road closures. On Wednesday mornings, access around St. Peter's Square may be limited due to the Papal Audience.
 ```
+
+---
+
+## Perché la Jolly è passata e la gialla no (2026-10-16)
+
+Stessa auto d'epoca, stesso formato "sightseeing con autista": la differenza l'hanno fatta
+**tema e contenuto**, non il veicolo.
+- Tema dichiarato: **Dolce Vita / Vacanze Romane** + i punti panoramici più alti (Monte Mario)
+- Zona diversa dal solito giro Fiat (Nord + Vaticano, non Colosseo/Aventino/Appia)
+- Sosta **maritozzo** (non il solito gelato/caffè/prosecco dei Fiat 500)
+- **3 passeggeri, prezzo per veicolo**: famiglie e gruppi, non solo coppie
+- Auto "beach car" senza porte, visivamente diversa dalle 500
+
+Lezione per i prossimi prodotti: un tema/titolo con un'idea propria + una sosta tipica non
+banale + un formato di gruppo diverso. "Vintage car + highlights + gelato" non passa più.
+
+## Prima di andare online
+- [ ] Numero di emergenza
+- [ ] Foto reali a Roma con persone (le attuali sono in un parcheggio)
+- [ ] Disponibilità: per veicolo €390 (fino a 3), capacità 1 per fascia, 09:30 · 14:30
+      (mag–set 16:30), chiusura prenotazioni 12 h prima
+- [ ] Bar dello Zodiaco aperto negli orari → altrimenti sosta maritozzo in Prati
+- [ ] Libretto/collaudo trasformazione Jolly, RC, inquadramento trasporto passeggeri
+- [ ] Policy pioggia: riprogrammare o rimborso (niente capote)
