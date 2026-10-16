@@ -35,7 +35,9 @@ The golf cart is open-sided with a roof; rain covers available. Short walks of 2
 ```
 
 ## Da verificare
-- [ ] Capienza reale golf cart (4 posti = 3 passeggeri?) e prezzo €350 per veicolo
+- [ ] Flotta reale (foto 2026-10-16): 4, 6 e 8 posti → fare 2 opzioni per veicolo:
+      fino a 3 persone (€350) e fino a 7 persone (prezzo da chiedere al cliente).
+      Nel testo wizard cambiare "maximum 3 passengers" di conseguenza
 - [ ] Permessi ZTL/percorsi del golf cart per Trevi, Pantheon, Navona, Piazza Mattei
 - [ ] Chiosco grattachecca (es. sul Lungotevere / Isola Tiberina) aperto negli orari
 - [ ] Porta Maggiore raggiungibile in golf cart (traffico intenso)
