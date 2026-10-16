@@ -31,3 +31,15 @@ Lettura:
 - In diverse foto **un cliente è al volante**: va bene come ricordo, ma su GYG fa sembrare il
   tour "self-drive" → per i listing "with driver" scegliere foto con l'autista alla guida.
 - Flotta: 4, 6 e 8 posti → nei prodotti a prezzo per veicolo fare **opzioni per dimensione**.
+
+## Versioni pronte per GYG (`gyg/`, 2026-10-16)
+Formato: orizzontale, 1600 px di larghezza (≥1280 richiesti, dato non ufficiale), JPEG q92,
+senza metadati. Soggetto al centro (GYG ritaglia sopra/sotto nelle schede).
+
+| File | Prodotto | Posizione |
+|---|---|---|
+| `gyg/notte-01-cover-colosseo.jpg` | T-1397966 e T-1052543 (notte) | **cover** |
+| `gyg/giorno-01-gruppo-villa-borghese.jpg` | T-1390511 (giorno) / fontane | tra le prime 4 (non cover per le fontane) |
+| `gyg/veicolo-melex-4posti.jpg` | tutti | dopo le prime 4 (dettaglio veicolo) |
+
+Scartata: `blu-8posti-villa-borghese-clienti.jpg` (posa + cliente al volante = sembra self-drive).
