@@ -1,7 +1,8 @@
 # GYG — Nuovo prodotto golf cart (inviato)
 
 Ultimo aggiornamento: 2026-10-09
-Stato: **compilato su GYG dal 2026-10-09, in attesa di revisione**
+Stato: **RIFIUTATO 2026-10-16** — ID 1514558, rif. T-1513519, titolo su GYG "Rome: Private Sightseeing
+Tour by Golf Cart". Motivo: "non offre una scelta nuova e distinta" (stesso del 1507732).
 
 Sostituisce il prodotto rifiutato **1507732** ("Rome: Private Sightseeing Tour by Golf Cart",
 rif. T-1052543 — ⚠️ al 2026-10-15 T-1052543 risulta un altro prodotto **prenotabile**
@@ -173,3 +174,11 @@ Nessun trasferimento tra le tappe (GYG calcola gli spostamenti).
   fontane). **Scartata**: il cliente vuole un tour highlights.
 - 2026-10-09: versione highlights "Easy-Access" con guida e lingue → riformulata come
   **sightseeing con autista, senza guida**, su richiesta. Compilati tutti i campi GYG.
+
+- 2026-10-16: **rifiutato anche 1514558** (T-1513519) per somiglianza. Secondo rifiuto di un
+  tour highlights in golf cart. Il cliente ha già 3 prodotti golf cart approvati
+  (T-1397966, T-1390511, T-1052543): un quarto giro highlights è un doppione anche dei suoi.
+  Decisione: **niente più prodotti nuovi golf cart highlights**. L'angolo "Easy-Access"
+  (anziani, mobilità ridotta, passeggini) va aggiunto come **opzione** a T-1390511,
+  come indica la guida GYG "Submitting Unique Activities". Nessun ricorso: il titolo
+  inviato era generico e non mostrava la differenza.
