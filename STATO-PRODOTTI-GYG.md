@@ -11,6 +11,7 @@
 ## Rifiutati ("non offre una scelta nuova e distinta")
 - 1507732 golf cart highlights · 1514558 (T-1513519) golf cart highlights — `gyg-nuovo-prodotto.md`
 - Fiat 600 gialla "Sightseeing + Gelato/Coffee" 3 h — `fiat-600/gyg-listing-fiat600.md`
+- **1522784 (T-1522784) "Rome: Private Golf Cart Tour with Driver & Gelato"** — rifiutato 2026-10-17. Terzo golf cart rifiutato; titolo quasi identico al T-1390511 già approvato. Se era il prodotto fontane, il titolo ha perso il tema (vedi `gyg-golf-cart-fontane.md`).
 
 ## In preparazione / inviati in attesa
 - Fiat gialla **"Rome Like a Roman: Hidden Neighborhoods"** (Coppedè, Garbatella, Ostiense, birra artigianale) — `fiat-600/gyg-listing-gialla-like-a-roman.md`

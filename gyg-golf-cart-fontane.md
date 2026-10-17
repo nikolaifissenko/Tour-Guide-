@@ -55,3 +55,21 @@ Pickup is available from any address in central Rome: Centro Storico, Prati, Tra
 
 The golf cart is open-sided with a roof, and rain covers are available. Please bring only small bags. Wear comfortable shoes for the short walks to the fountains in pedestrian squares, and bring a reusable water bottle to refill at the nasoni along the way.
 ```
+
+## 2026-10-17 — rifiuto 1522784
+Inviato/uscito come "Rome: Private Golf Cart Tour with Driver & Gelato": titolo generico, il tema
+fontane non si vede, ed è quasi uguale al T-1390511 approvato ("Golf Cart Sightseeing Tour +
+Gelato or Coffee"). Regola per i prossimi invii: **il tema deve stare nel titolo e nella prima
+frase**; il wizard AI di GYG tende a riscrivere il titolo in modo generico → ricontrollarlo
+sempre prima di inviare.
+
+### Testo ricorso (solo se il contenuto inviato era davvero il tour fontane)
+```
+Hello GetYourGuide team,
+
+We believe product 1522784 was assessed mainly on its title, which did not reflect its content. This is not a highlights tour with gelato: it is a themed itinerary following Rome's water, from the ancient aqueduct arches at Porta Maggiore to the hidden Turtle Fountain in Piazza Mattei, the Fountain of Moses (Acqua Felice), the Triton Fountain and the Fontana dell'Acqua Paola, including how to drink from the "nasoni" street fountains and a stop for traditional Roman "grattachecca" shaved ice in summer.
+
+We checked the golf cart activities currently listed in Rome and found none built around fountains and aqueducts, the Turtle Fountain, the nasoni or grattachecca. We are happy to update the title to "Rome: Fountains & Aqueducts Golf Cart Sightseeing Tour" so the difference is clear to travelers.
+
+Thank you for reconsidering.
+```
