@@ -1,5 +1,7 @@
 # GYG — Prodotto v4: Easy-Access Highlights + pausa caffè
 
+> **Scartata 2026-10-19**: il prodotto Easy-Access non esiste su GYG. Vedi `gyg-belvederi.md`.
+
 Ultimo aggiornamento: 2026-10-19
 Stato: **bozza, non ancora inviata**. Vincolo del cliente: deve restare un tour highlights.
 

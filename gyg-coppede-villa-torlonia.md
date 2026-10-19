@@ -1,5 +1,7 @@
 # GYG — Prodotto v3: Art Nouveau Rome (Coppedè + Villa Torlonia) in golf cart
 
+> **Scartata 2026-10-19**: il golf cart non può andare a Villa Torlonia / Coppedè. Vedi `gyg-belvederi.md`.
+
 Ultimo aggiornamento: 2026-10-19
 Stato: **bozza, non ancora inviata**
 
