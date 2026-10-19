@@ -172,3 +172,37 @@ Nessun trasferimento tra le tappe (GYG calcola gli spostamenti).
   fontane). **Scartata**: il cliente vuole un tour highlights.
 - 2026-10-09: versione highlights "Easy-Access" con guida e lingue → riformulata come
   **sightseeing con autista, senza guida**, su richiesta. Compilati tutti i campi GYG.
+- 2026-10-19: **rifiutato anche il prodotto 1522784** ("Rome: Private Golf Cart Tour with
+  Driver & Gelato", rif. T-1522784, versione fontane/acquedotti + gelato/grattachecca).
+  Motivo: solo "troppo simile a esperienze esistenti" (Sez. 3.1 Termini fornitori). Il
+  motivo "fuori ambito" non è stato ripetuto.
+  Diagnosi: titolo e highlights vendono "golf cart + gelato + Trevi/Spagna", cioè un
+  prodotto che esiste già (es. Wheel Tours "Rome City Tour by Golf Cart with Gelato").
+  Il tema acquedotti, l'unica cosa distintiva, era sepolto nella descrizione.
+  Prossimo passo: un solo ricorso con il tema in primo piano (testo sotto). Se viene
+  respinto, smettere di proporre varianti su GYG (rischio di segnalazione dell'account
+  fornitore) e spostarsi su Viator / Airbnb / vendita diretta a hotel.
+  Rischio da tenere presente: una narrazione tematica dall'autista (date, Bernini,
+  acquedotti) è di fatto illustrazione turistica, che richiede l'abilitazione da guida.
+
+## Ricorso 1522784 (bozza, 2026-10-19)
+
+Proposed changes, if the appeal is accepted:
+- Title: "Rome: Aqueducts & Fountains Private Golf Cart Tour"
+- Short description: "Follow the water of three ancient aqueducts across Rome by private
+  golf cart, from the arches of Porta Maggiore to the Acqua Paola on the Janiculum Hill."
+- Highlights: lead with Porta Maggiore, Acqua Felice, Acqua Paola; drop "Trevi Fountain,
+  Spanish Steps, and more"; gelato becomes the last highlight, not part of the title.
+
+Appeal text:
+
+> Hello, we'd like to appeal the rejection of product 1522784. We believe it was read as
+> a standard highlights tour with gelato, which is our fault: the title and highlights
+> didn't show what the tour is about. The tour follows Rome's water system. It is built
+> around three ancient and Renaissance aqueducts (Acqua Claudia at Porta Maggiore, Acqua
+> Felice at the Fountain of Moses, and Acqua Paola on the Janiculum Hill), stops that
+> existing golf cart tours in Rome don't include. The Trevi and Navona stops are part of
+> the same water route (Acqua Vergine), not a highlights loop. We've searched the Rome
+> golf cart category and found no other product built on this theme. We're happy to
+> change the title to "Rome: Aqueducts & Fountains Private Golf Cart Tour" and rewrite
+> the highlights so the theme is clear. Thank you for reconsidering.
